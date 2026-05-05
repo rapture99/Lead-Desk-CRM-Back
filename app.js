@@ -7,7 +7,7 @@ const app = express();
 
 var corsOptions = {
   // origin: "*",
-  origin: ["https://lead-desk.pages.dev", 'https://sweet-boat-c450.jatharnikhil007.workers.dev'],
+  origin: ["https://lead-desk.pages.dev", 'https://sweet-boat-c450.jatharnikhil007.workers.dev','https://lead-desk.jatharnikhil007.workers.dev'],
   allowedHeaders: [
     "Content-Type",
     "Authorization",
